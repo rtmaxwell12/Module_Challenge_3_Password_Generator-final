@@ -8,6 +8,8 @@ This website does not require installation, and can be accessed via this link, w
 
 https://rtmaxwell12.github.io/Module_Challenge_3_Password_Generator-final/
 
+Here is a screenshot of the web app: assets/screenshot 1.png
+
 To use the website, follow the instructions below:
     1. select "Generate Password"
     2. A prompt will pop up and ask the user to enter then number of characters he or she would like their password to contain. The length must be between        8 and 128

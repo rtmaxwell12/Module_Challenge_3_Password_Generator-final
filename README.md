@@ -8,7 +8,8 @@ This website does not require installation, and can be accessed via this link, w
 
 https://rtmaxwell12.github.io/Module_Challenge_3_Password_Generator-final/
 
-## Here is a screenshot of the web app: assets/screenshot 1.png
+## Here is a screenshot of the web app:
+![screenshot 1](https://user-images.githubusercontent.com/113951402/214758152-a5310ab6-abd9-403a-80cb-2ccb10e47413.png)
 
 ## To use the website, follow the instructions below:
     1. select "Generate Password"
